@@ -44,7 +44,8 @@
      $ git init
      $ git add hello.md
      $ git commit -m "first commit"
-     $ git remote add origin git@github.com:suyesean/helloGitHub.git
+     # bridge local file to remote repository only used when fisrt.
+     $ git remote add origin git@github.com:suyesean/helloGitHub.git 
      $ git push -u origin master
      ```
 
