@@ -30,7 +30,7 @@
 
    - 克隆远端
 
-     （直接在本地克隆远端的仓库）
+     直接在本地克隆远端的仓库
 
      ``` shell
      $ git clone git@github.com:suyesean/HowToGitHub.git
